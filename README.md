@@ -1,3 +1,29 @@
+# Weather React API
+
+Use API: https://openweathermap.org/api
+
+Live demo: 
+
+
+# ScreenShoots
+
+![Screenshot](weather.PNG)
+
+# Tools :computer:
+
+- Git / Github
+- Bootstrap
+- JSON
+- React
+- Visual Code Studio
+
+# Greetings :gift:
+- Comment your friends and colleagues about this project. :loudspeaker:
+- Thank the team. :slightly_smiling_face:
+- Invite the team for a beer. :beer:
+
+# Weather React API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,6 +94,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# weather-React-API
-# Weather-API-React
-# Weather-API-React
+
+
